@@ -1,0 +1,3 @@
+[submodule "rust/ms8607"]
+	path = rust/ms8607
+	url = https://github.com/HydroVinci-PULV/registry_rust_ms8607
